@@ -1,0 +1,80 @@
+(footprint "SJ_3_PASTE2&3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "ad41fd2c-eb9b-4121-b9c7-0a3f5eca9d67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "UNDEFINED")
+		(uuid "3a91ad40-21b3-4aef-bf8f-cdcb32971ab5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d348e02-d910-4ee6-87d2-bb77e696b102")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2891d03-32db-421a-9775-6318d5ad34c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.8128 0)
+		(size 0.635 1.27)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.0762)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "db7e0fda-8850-44af-b7aa-5a1eefc52249")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 0.635 1.27)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.0762)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "1449c003-31d9-4d34-a3e2-5c05817cc06b")
+	)
+	(pad "3" smd rect
+		(at 0.8128 0)
+		(size 0.635 1.27)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.0762)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "f85df333-ddbe-43d7-bb80-76427e21ec3d")
+	)
+	(embedded_fonts no)
+)
