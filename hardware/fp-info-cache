@@ -1,4 +1,4 @@
-26799299987388956
+26815104949919819
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106364,6 +106364,62 @@ Varistor VF
 0
 2
 2
+micross
+BLACK PILL
+
+
+0
+40
+40
+micross
+ESP32-15P_22A
+
+
+0
+30
+30
+micross
+ESP32-15P_25A
+
+
+0
+30
+30
+micross
+ESP32-19P
+
+
+0
+38
+38
+micross
+ESP32-LILYGO
+
+
+0
+26
+26
+micross
+LORA HELTEC V3
+
+
+0
+36
+36
+micross
+Untitled
+
+
+0
+24
+12
+micross
+esp32-lilygo-1.9 touch
+
+
+0
+24
+24
 mioss
 2 pads
 
@@ -106385,6 +106441,13 @@ mioss
 0
 2
 2
+mioss
+C12880MA
+
+
+0
+16
+16
 mioss
 Conector 12v smd
 
