@@ -8214,7 +8214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst.fr/doc/jst/pdf/jst-connector-catalogue-vol-120e.pdf"
 			(at 181.61 189.23 0)
 			(effects
 				(font
@@ -8414,7 +8414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 217.17 114.3 0)
 			(effects
 				(font
@@ -8425,6 +8425,15 @@
 		)
 		(property "Description" ""
 			(at 217.17 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 217.17 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8484,7 +8493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/60018/eh.pdf"
 			(at 359.41 132.08 0)
 			(effects
 				(font
@@ -8503,6 +8512,15 @@
 		)
 		(property "LCSC" "C25804"
 			(at 359.41 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342E12B10B0RT5"
+			(at 359.41 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8706,7 +8724,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 48.26 147.32 0)
 			(effects
 				(font
@@ -8715,7 +8733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0111.pdf"
 			(at 48.26 147.32 0)
 			(effects
 				(font
@@ -8726,6 +8744,15 @@
 		)
 		(property "Description" ""
 			(at 48.26 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "LQW18AS4N7G00D"
+			(at 48.26 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8785,7 +8812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.be/datasheet/3/201/1/1058.PDF"
 			(at 166.37 140.716 90)
 			(effects
 				(font
@@ -9246,7 +9273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 287.02 175.26 0)
 			(effects
 				(font
@@ -9257,6 +9284,15 @@
 		)
 		(property "Description" ""
 			(at 287.02 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 287.02 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9602,6 +9638,15 @@
 				(hide yes)
 			)
 		)
+		(property "MP" "DS3231MZ+"
+			(at 212.09 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6514c61f-6ab4-481c-b8de-26aeb63741b9")
 		)
@@ -9671,7 +9716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 377.19 110.49 0)
 			(effects
 				(font
@@ -9682,6 +9727,15 @@
 		)
 		(property "Description" ""
 			(at 377.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 377.19 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10153,6 +10207,15 @@
 				(hide yes)
 			)
 		)
+		(property "MP" "MCP9808_MSOP"
+			(at 375.92 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2ebcb520-8ef2-41a9-8833-418719b19184")
 		)
@@ -10223,7 +10286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst.fr/doc/jst/pdf/jst-connector-catalogue-vol-120e.pdf"
 			(at 237.49 175.26 0)
 			(effects
 				(font
@@ -10358,7 +10421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 355.6 27.94 0)
 			(effects
 				(font
@@ -10369,6 +10432,15 @@
 		)
 		(property "Description" ""
 			(at 355.6 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 355.6 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10821,7 +10893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 113.03 147.32 0)
 			(effects
 				(font
@@ -10832,6 +10904,15 @@
 		)
 		(property "Description" ""
 			(at 113.03 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 113.03 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11132,7 +11213,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "LILTGO touch"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -11149,7 +11230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://github.com/Xinyuan-LilyGO/T-Display-S3"
 			(at 85.09 49.53 0)
 			(effects
 				(font
@@ -11482,7 +11563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 147.32 83.82 0)
 			(effects
 				(font
@@ -11500,6 +11581,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B4E75RS2"
 			(at 147.32 83.82 0)
 			(effects
 				(font
@@ -11559,7 +11649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 60.96 142.24 0)
 			(effects
 				(font
@@ -11577,6 +11667,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 60.96 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B39E2RS2"
 			(at 60.96 142.24 0)
 			(effects
 				(font
@@ -11703,7 +11802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 149.86 83.82 0)
 			(effects
 				(font
@@ -11721,6 +11820,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 149.86 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B4E75RS2"
 			(at 149.86 83.82 0)
 			(effects
 				(font
@@ -11781,7 +11889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst.fr/doc/jst/pdf/jst-connector-catalogue-vol-120e.pdf"
 			(at 237.49 191.77 0)
 			(effects
 				(font
@@ -11850,7 +11958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 53.34 137.16 0)
 			(effects
 				(font
@@ -11868,6 +11976,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 53.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B56E2RWB"
 			(at 53.34 137.16 0)
 			(effects
 				(font
@@ -11993,7 +12110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 101.6 142.24 0)
 			(effects
 				(font
@@ -12011,6 +12128,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 101.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B39E2RS2"
 			(at 101.6 142.24 0)
 			(effects
 				(font
@@ -12070,7 +12196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 82.55 124.46 0)
 			(effects
 				(font
@@ -12081,6 +12207,15 @@
 		)
 		(property "Description" ""
 			(at 82.55 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C104K3RACTU"
+			(at 82.55 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12139,7 +12274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/60018/eh.pdf"
 			(at 231.14 128.27 0)
 			(effects
 				(font
@@ -12157,6 +12292,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 231.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342E12B10B0RT5"
 			(at 231.14 128.27 0)
 			(effects
 				(font
@@ -12282,7 +12426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.alldatasheet.es/datasheet-pdf/pdf/352063/ONSEMI/CAT4101.html"
 			(at 311.15 180.34 0)
 			(effects
 				(font
@@ -12428,7 +12572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9001.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9001.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1762853433630&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv9001"
 			(at 302.26 44.45 0)
 			(effects
 				(font
@@ -12438,6 +12582,15 @@
 			)
 		)
 		(property "Description" "Low-power, Rail-to-Rail, 1MHz Operational Amplifier, SOT-353"
+			(at 302.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "TLV9001IDCKR"
 			(at 302.26 44.45 0)
 			(effects
 				(font
@@ -12571,7 +12724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.jst.fr/doc/jst/pdf/jst-connector-catalogue-vol-120e.pdf"
 			(at 326.39 180.34 0)
 			(effects
 				(font
@@ -12781,7 +12934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 200.66 57.15 0)
 			(effects
 				(font
@@ -12791,6 +12944,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 200.66 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C223K5RACTU"
 			(at 200.66 57.15 0)
 			(effects
 				(font
@@ -12850,7 +13012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/3386.pdf"
 			(at 284.48 190.5 0)
 			(effects
 				(font
@@ -12861,6 +13023,15 @@
 		)
 		(property "Description" ""
 			(at 284.48 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "3386F-1-502TLF"
+			(at 284.48 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13018,7 +13189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/60018/eh.pdf"
 			(at 359.41 134.62 0)
 			(effects
 				(font
@@ -13037,6 +13208,15 @@
 		)
 		(property "LCSC" "C25804"
 			(at 359.41 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342E12B10B0RT5"
+			(at 359.41 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13223,7 +13403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps61088.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1762891137847&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftps61088"
 			(at 81.28 147.32 0)
 			(effects
 				(font
@@ -13609,7 +13789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at 220.98 57.15 0)
 			(effects
 				(font
@@ -13619,6 +13799,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "C0603C223K5RACTU"
 			(at 220.98 57.15 0)
 			(effects
 				(font
@@ -13678,7 +13867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 46.99 139.7 0)
 			(effects
 				(font
@@ -13696,6 +13885,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 46.99 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B20E0RS2"
 			(at 46.99 139.7 0)
 			(effects
 				(font
@@ -13755,7 +13953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 191.77 189.23 0)
 			(effects
 				(font
@@ -13773,6 +13971,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 191.77 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B100ERS2"
 			(at 191.77 189.23 0)
 			(effects
 				(font
@@ -14240,6 +14447,15 @@
 				(hide yes)
 			)
 		)
+		(property "MP" "ADS1115IDGS"
+			(at 347.98 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "2491b27a-4efa-44e2-a92b-42a220c110ca")
 		)
@@ -14436,7 +14652,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -14445,7 +14661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0111.pdf"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -14455,6 +14671,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 210.82 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "LQW18ASR10G00D"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -14646,7 +14871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf"
 			(at 300.99 125.73 0)
 			(effects
 				(font
@@ -14835,7 +15060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/c12666ma_kacc1216e.pdf"
 			(at 251.46 52.07 0)
 			(effects
 				(font
@@ -14922,7 +15147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/31010/rcwpm.pdf"
 			(at 297.18 182.88 0)
 			(effects
 				(font
@@ -14941,6 +15166,15 @@
 		)
 		(property "LCSC" "C25804"
 			(at 297.18 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "M55342K12B590DRS2"
+			(at 297.18 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
