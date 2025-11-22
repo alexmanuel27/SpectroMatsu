@@ -68,7 +68,7 @@ A lightweight, portable, open-source spectrophotometer designed for in-situ wate
     *   Runs a local web server providing a web interface for sample listing and downloading (CSV format).
     *   Implements a simple menu system accessible via the touchscreen.
 
-<img src="img/Captura.png" width="500" />
+<img src="img/Captura.png" width="1000" />
 
 ### Key Functionalities
 
