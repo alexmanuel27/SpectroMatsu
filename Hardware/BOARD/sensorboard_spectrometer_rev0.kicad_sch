@@ -8818,7 +8818,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 181.61 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "000561"
 			(at 181.61 189.23 0)
 			(effects
 				(font
@@ -9126,7 +9135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.winbond.com/hq/support/documentation/levelOne.jsp?__locale=en&DocNo=DA00-W25Q16JV.1"
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf"
 			(at 372.11 129.54 0)
 			(effects
 				(font
@@ -9144,7 +9153,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "digikey"
+			(at 372.11 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "W25Q16JVSSIQ"
 			(at 372.11 129.54 0)
 			(effects
 				(font
@@ -9394,7 +9412,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 166.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "001203"
 			(at 166.37 142.24 0)
 			(effects
 				(font
@@ -9685,7 +9712,7 @@
 		(at 373.38 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11007,7 +11034,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 237.49 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "000561"
 			(at 237.49 175.26 0)
 			(effects
 				(font
@@ -11866,7 +11902,7 @@
 		(at 247.65 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12308,6 +12344,15 @@
 			)
 		)
 		(property "Supplier" "tinytronics"
+			(at 85.09 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "004807"
 			(at 85.09 49.53 0)
 			(effects
 				(font
@@ -12839,7 +12884,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "farnell"
+			(at 313.69 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "CAT4104V-GT3"
 			(at 313.69 223.52 0)
 			(effects
 				(font
@@ -13110,7 +13164,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 237.49 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "000561"
 			(at 237.49 191.77 0)
 			(effects
 				(font
@@ -13692,7 +13755,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "farnell"
+			(at 311.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "CAT4104V-GT3"
 			(at 311.15 177.8 0)
 			(effects
 				(font
@@ -14017,7 +14089,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 326.39 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "000561"
 			(at 326.39 177.8 0)
 			(effects
 				(font
@@ -14475,7 +14556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3045.pdf"
 			(at 82.55 179.07 0)
 			(effects
 				(font
@@ -14493,7 +14574,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "digikey"
+			(at 82.55 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "LT3045HDD#TRPBF"
 			(at 82.55 179.07 0)
 			(effects
 				(font
@@ -15981,7 +16071,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "tinytronics"
+			(at 328.93 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "000561"
 			(at 328.93 223.52 0)
 			(effects
 				(font
@@ -16761,7 +16860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/txs0108e.pdf?ts=1763832768609"
 			(at 300.99 125.73 0)
 			(effects
 				(font
@@ -16779,7 +16878,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
+		(property "Supplier" "digikey"
+			(at 300.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "TXS0108EPWR"
 			(at 300.99 125.73 0)
 			(effects
 				(font

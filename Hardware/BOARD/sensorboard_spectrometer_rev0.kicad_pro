@@ -765,7 +765,7 @@
           "group_by": false,
           "label": "Supplier",
           "name": "Supplier",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
