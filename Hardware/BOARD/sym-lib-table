@@ -3,4 +3,5 @@
   (lib (name "micross")(type "KiCad")(uri "/home/alex/Alex/nube/investigacion/doctorado/BOYA/pcb/7.0/symbols/micross.kicad_sym")(options "")(descr ""))
   (lib (name "micros")(type "KiCad")(uri "/home/alex/Alex/nube/investigacion/doctorado/BOYA/pcb/7.0/symbols/micros.kicad_sym")(options "")(descr ""))
   (lib (name "sensoress")(type "KiCad")(uri "/home/alex/Alex/nube/investigacion/doctorado/BOYA/pcb/7.0/symbols/sensoress.kicad_sym")(options "")(descr ""))
+  (lib (name "oTROSs")(type "KiCad")(uri "/home/alex/Alex/nube/investigacion/doctorado/BOYA/pcb/7.0/symbols/oTROSs.kicad_sym")(options "")(descr ""))
 )
