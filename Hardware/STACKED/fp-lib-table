@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "SpectroStack") (type "KiCad") (uri "${KIPRJMOD}/SpectroStack.pretty") (options "") (descr "Reused XIAO carrier footprint")))

@@ -3,7 +3,6 @@
 A lightweight, portable, open-source spectrophotometer designed for in-situ water quality and other compound analysis. Built with the Hamamatsu C12880MA miniature spectrometer sensor and the 3-channel ultraviolet AS7331 light sensor.
 
 <img src="img/as7331-uv-light-sensor-module-front-600x600.jpg" width="500" />
-<img src="img/thumb-k_c12666ma_pp_xx.jpg" width="500" />
 
 ## Table of Contents
 
@@ -32,7 +31,7 @@ A lightweight, portable, open-source spectrophotometer designed for in-situ wate
 ### Sensor
 
 *   **Model:** 
-    *   Hamamatsu C12666MA
+    *   Hamamatsu C12880MA (340–850 nm, 288 pixels)
     *   AS7331
 *   **Type:** Combined miniature linear image sensor for spectral analysis and optical filters with the AS7331 sensor to achieve a broader spectral range.
 *   **Spectral Range:** A combination of visible and ultraviolet light, suitable for detecting various water quality indicators through absorbance measurements.
@@ -47,7 +46,7 @@ A lightweight, portable, open-source spectrophotometer designed for in-situ wate
 
 ### Hardware Design (PCB)
 
-*   **Status:** Custom-designed PCB specifically for integrating the Hamamatsu C12666MA sensor with the LilyGo T-Display-S3.
+*   **Status:** Custom-designed PCB specifically for integrating the Hamamatsu C12880MA sensor with the LilyGo T-Display-S3.
 
 <img src="img/Captura%20desde%202025-11-21%2023-40-21.png" width="500" />
 
